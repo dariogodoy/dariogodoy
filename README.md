@@ -8,6 +8,14 @@ ________________________________________________________________________________
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,postman,pycharm,)](https://skillicons.dev)
 
+________________________________________________________________________________________________________________
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 <!---
 dariogodoy/dariogodoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
