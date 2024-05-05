@@ -12,12 +12,7 @@ ________________________________________________________________________________
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ________________________________________________________________________________________________________________
-
-- uses: lowlighter/metrics@latest
-  with:
-    plugin_languages: yes
-    plugin_languages_indepth: yes
-    commits_authoring: firstname lastname, username, username@users.noreply.github.com
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 
 
 
