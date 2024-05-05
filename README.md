@@ -15,9 +15,7 @@ ________________________________________________________________________________
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-npm install
 
-npm run dev:demo
 
 
 <!---
