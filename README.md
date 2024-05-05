@@ -12,9 +12,8 @@ ________________________________________________________________________________
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ________________________________________________________________________________________________________________
-![Twitch]([https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white](https://www.twitch.tv/artthyg))
-
-
+## 📊 My stats
+<img align="center" width="600" alt="Data" src="general.svg">
 
 <!---
 dariogodoy/dariogodoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
