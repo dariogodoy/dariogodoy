@@ -6,7 +6,7 @@
 - 📫 Puedes contactar conmigo mediante https://www.linkedin.com/in/dar%C3%ADo-godoy-206271292/
 ________________________________________________________________________________________________________________
 - 🧰💻TECNOLOGIA Y HERRAMIENTAS :
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <!---
