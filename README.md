@@ -7,7 +7,7 @@
 ________________________________________________________________________________________________________________
 - 🧰💻TECNOLOGIA Y HERRAMIENTAS :
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ableton)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,postgres,postman,pycharm,)](https://skillicons.dev)
 
 
 <!---
