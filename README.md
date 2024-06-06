@@ -1,4 +1,5 @@
 
+![QA ENGINEER](https://github.com/dariogodoy/dariogodoy/assets/160784405/562d445c-a0db-43ea-af68-1950a3a899db)
 
 - 👋 Hola mi nombre es Darío
 - 👀 Me interesa estar siempre en constante aprendizaje en las pruebas automatizadas y en el lenguaje de Python
