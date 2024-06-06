@@ -1,4 +1,4 @@
-![07d0519fdd6aa0d7ccb86e52ef74054b243973d8_hq](https://github.com/dariogodoy/dariogodoy/assets/160784405/891c9da4-8489-4ea5-9c08-870cba894f9e)
+
 
 - 👋 Hola mi nombre es Darío
 - 👀 Me interesa estar siempre en constante aprendizaje en las pruebas automaizadas y en el lenguaje de Python
