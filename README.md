@@ -6,7 +6,7 @@
 ________________________________________________________________________________________________________________
 - 🧰💻TECNOLOGIA Y HERRAMIENTAS :
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,postman,pycharm,ae)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,postman,pycharm,java,ae)](https://skillicons.dev)
 
 _______________________________________________________________________________________________________________
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
