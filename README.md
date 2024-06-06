@@ -1,7 +1,7 @@
 
 ![QA ENGINEER](https://github.com/dariogodoy/dariogodoy/assets/160784405/562d445c-a0db-43ea-af68-1950a3a899db)
 
-- 👋 
+-                                                     👋 
 - 👀 Me interesa estar siempre en constante aprendizaje en las pruebas automatizadas y en el lenguaje de Python
 - 🌱 Acabo de terminar un Bootcamp de QA Engineer, donde aprendí y desarrolle habilidades necesarias para el lenguaje de Python y automatización
 - 🖥️ Me apasiona el desafío de analizar los requisitos de una aplicación. Como QA Engineer Junior, estoy preparado para garantizar la calidad de los flujos de trabajo y aportar soluciones efectivas.
