@@ -6,6 +6,7 @@
 - 🖥️ Me apasiona el desafío de analizar los requisitos de una aplicación. Como QA Engineer Junior, estoy preparado para garantizar la calidad de los flujos de trabajo y aportar soluciones efectivas.
 - 🎇 Estoy dispuesto a aprender y contribuir activamente al equipo de trabajo, asegurando que los productos cumplan con los más altos estándares de calidad.
 - 📫 Puedes contactar conmigo mediante https://www.linkedin.com/in/dar%C3%ADo-godoy-206271292/
+- 📧 Mi correo: dariogodoy983@gmail.com
 ________________________________________________________________________________________________________________
 - 🧰💻TECNOLOGIA Y HERRAMIENTAS :
   
